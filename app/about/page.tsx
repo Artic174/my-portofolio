@@ -94,7 +94,7 @@ export default function AboutPage() {
                 <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-yellow-400 to-yellow-300" />
                 <div className="relative w-32 h-32">
                   <Image
-                    src="https://raw.githubusercontent.com/latesturl/dbCDN/refs/heads/main/my-DB/my-profile.jpg"
+                    src="https://cdn.cifumo.xyz/f4/images/1ef66f131e59.jpg"
                     alt="My Profile"
                     width={128}
                     height={128}
@@ -210,7 +210,7 @@ export default function AboutPage() {
               >
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Location</h3>
-                  <p className="text-gray-300">Banjarbaru, Indonesia</p>
+                  <p className="text-gray-300">Bandung, Jawa Barat</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Available for</h3>

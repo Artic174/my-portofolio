@@ -7,7 +7,7 @@ import BackgroundMusic from "@/components/background-music"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Raol Mukarrozi - Personal Portfolio",
+  title: "tsukasa Tsukuyomi - Winzz",
   description: "Tech Enthusiast skilled in HTML, CSS, JavaScript, Tailwind, Node.js, and Laravel",
   icons: [
     {
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "Raol Mukarrozi - Personal Portfolio",
+    title: "Tsukasa tsukuyomi - Winzz",
   },
     generator: 'v0.dev'
 }
